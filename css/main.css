@@ -2,10 +2,6 @@ html {
   font-family: sans-serif;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
 .btn {
   background-color: limegreen;
   border-color: limegreen;
